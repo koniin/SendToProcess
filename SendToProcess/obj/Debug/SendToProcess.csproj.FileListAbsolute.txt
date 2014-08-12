@@ -1,0 +1,6 @@
+C:\Code\SendToProcess\SendToProcess\bin\Debug\SendToProcess.exe.config
+C:\Code\SendToProcess\SendToProcess\obj\Debug\SendToProcess.csprojResolveAssemblyReference.cache
+C:\Code\SendToProcess\SendToProcess\bin\Debug\SendToProcess.exe
+C:\Code\SendToProcess\SendToProcess\bin\Debug\SendToProcess.pdb
+C:\Code\SendToProcess\SendToProcess\obj\Debug\SendToProcess.exe
+C:\Code\SendToProcess\SendToProcess\obj\Debug\SendToProcess.pdb
